@@ -31,17 +31,17 @@ Com o repositório clonado, instale as dependências do projeto:
 
 
 
-Rodando o App
+**Rodando o App**
 Após a instalação, você pode rodar o aplicativo localmente de duas maneiras:
 
 Rodando no Emulador ou Dispositivo Real
-Para iniciar o app, use o comando:
+**Para iniciar o app, use o comando:**
 
 **
-expo start
+**expo start**
 Isso abrirá uma janela no seu navegador com um código QR. Escaneie este código com o app Expo Go no seu dispositivo móvel ou use um emulador para visualizar o aplicativo em ação.
 
-Comandos Úteis
+**Comandos Úteis**
 Rodar o app no navegador
 Caso você queira testar o app em um navegador, use:
 
